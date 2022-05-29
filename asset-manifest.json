@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aalvin/static/css/main.915522a7.css",
+    "main.js": "/aalvin/static/js/main.7f0e43d5.js",
+    "static/js/787.956a2548.chunk.js": "/aalvin/static/js/787.956a2548.chunk.js",
+    "static/media/travel-02.jpg": "/aalvin/static/media/travel-02.bb0b61fd1473859f1e84.jpg",
+    "static/media/travel-01.jpg": "/aalvin/static/media/travel-01.3c4942095effbb5088b7.jpg",
+    "static/media/travel-03.jpg": "/aalvin/static/media/travel-03.2aeed95498b75cd9ae07.jpg",
+    "index.html": "/aalvin/index.html",
+    "main.915522a7.css.map": "/aalvin/static/css/main.915522a7.css.map",
+    "main.7f0e43d5.js.map": "/aalvin/static/js/main.7f0e43d5.js.map",
+    "787.956a2548.chunk.js.map": "/aalvin/static/js/787.956a2548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915522a7.css",
+    "static/js/main.7f0e43d5.js"
+  ]
+}
